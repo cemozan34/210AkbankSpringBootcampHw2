@@ -1,5 +1,4 @@
 # SpringBootWebServiceHomework
-### ÖDEV TESLİM TARİHİ : 01/07/2022 Cuma 18:00
 
 # Merhalar Arkadaşlar
 Bu ödevimizde spring boot kullanarak, üç adet webservis geliştireceğiz. 
